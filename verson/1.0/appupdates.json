@@ -10,6 +10,6 @@
 "Massage" : "New Update Are Available",
 "Image" : "https://raw.githubusercontent.com/skcovid/covidupdates/master/verson/1.0/appupdatesimage.png"
 },
-"AppOpen" : "True",
+"AppOpen" : "False",
 "CloseMessage" : "App is closed By Developer"
 }
