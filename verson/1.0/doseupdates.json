@@ -1,7 +1,7 @@
 {
-  "DoseShow" : "False",
+  "DoseShow" : "True",
 "DoseUsage" : {
-"Total" : "109875",
+"Total" : "117015",
 "Today" : "0"
 } 
 }
